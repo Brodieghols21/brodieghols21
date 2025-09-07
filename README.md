@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+My name is Brodie Gholson and I'm a Senior at Southern Arkansas University, soon to graduate from Computer Science! I'm really passionate about Python and Java, and all things that make my brain tick!
+
+- 🔭 I’m currently working on Minecraft Mobs and other fun projects
+- 🌱 I’m currently learning  to solve a variety of challenging problems on platforms such as LeetCode and HackerRank to hone my problem-solving skills.
+- 📫 How to reach me: brodiegholson0@gmail.com
+- ⚡ Fun fact: Don't let me say it without asking - where's the fun in that?
+
 <!--
 **Brodieghols21/brodieghols21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
